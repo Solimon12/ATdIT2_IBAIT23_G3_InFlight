@@ -1,20 +1,19 @@
 # Gruppenprojekt "Lumina": *Raumfahrterlebnisse der Zukunft*
 
-HWG Ludwigshafen – IBAIT ATdIT 2, Projektgruppe X
+HWG Ludwigshafen – IBAIT ATdIT 2, Projektgruppe 3
 
-***Entwicklung eines innovativen Softwaresystems für touristische Erlebnisse im Weltraum.***
+***Entwicklung eines innovativen Softwaresystems für atemberaubende Erlebnisse im Weltraum.***
 
-Dozierende: *Dr. Britta Jung und Patrick Gutgesell*  
-Gruppenmitglieder: *[Deine Namen hier einfügen]*
+Dozierende: *Andreas Heck und Patrick Gutgesell*  
+Gruppenmitglieder: *Leonie Bretscher, Vanessa Weber, Inas Mountassir, Oliver Simons & Jonas Juston*
 
 ---
 
-![Lumina Banner](https://example.com/dein-bild-link.png) <!-- Optional: Hier eigenes Bild oder Logo einfügen -->
+
 
 ## ✨ Projektbeschreibung
 
-**Lumina** ist eine visionäre Softwareplattform, die sich der Aufgabe widmet, zukünftige Weltraumerlebnisse für Tourist:innen einmalig und immersiv zu gestalten. Die Anwendung kombiniert User Interfaces im Comic-Stil mit Animationen und ermöglicht eine emotionale Reise ins All.
-
+**Lumina** ist eine visionäre Softwareplattform, die sich der Aufgabe widmet, zukünftige Weltraumerlebnisse für Tourist:innen einmalig und immersiv zu gestalten. Mit Lumina garantieren wir maximale Sicherheit während Ihres Raumflugs – kombiniert mit interaktiven Unterhaltungsmöglichkeiten und dem einzigartigen Erlebnis eines echten Weltraumspaziergangs.
 ---
 
 ## 📁 Projektstruktur & Modellierung
