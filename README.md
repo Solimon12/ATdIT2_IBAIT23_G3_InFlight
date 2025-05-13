@@ -9,7 +9,7 @@ Gruppenmitglieder: *Leonie Bretscher, Vanessa Weber, Inas Mountassir, Oliver Sim
 
 ---
 
-![Alt-Text](./images/PictureForTitle.png)
+![TitlePicture](Images/PictureForTitle.png)
 
 ## ✨ Projektbeschreibung
 
