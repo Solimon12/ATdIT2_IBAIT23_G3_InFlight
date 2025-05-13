@@ -73,7 +73,7 @@ Wir haben bewusst den Fokus auf den **Client der Anwendung** gelegt. Serverlogik
 ## 📽 Präsentation
 
 Unsere Projektpräsentation findest du hier:  
-📄 [Documents/Lumina_Praesentation.pdf](Documents/Lumina_Praesentation.pdf)
+📄 [Documents/Lumina_Praesentation.pdf](UrlaubImAll.pdf)
 
 ---
 
