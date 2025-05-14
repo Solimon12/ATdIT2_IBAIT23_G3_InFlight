@@ -18,7 +18,7 @@ Gruppenmitglieder: *Leonie Bretscher, Vanessa Weber, Inas Mountassir, Oliver Sim
 #### Wir garantieren maximale Sicherheit während Ihres Raumflugs – kombiniert mit interaktiven Unterhaltungsmöglichkeiten und dem einzigartigen Erlebnis eines echten Weltraumspaziergangs.
 ---
 
-## 📁 Projektstruktur & Modellierung
+## 📁Modellierung
 
 ### Übersicht
 
@@ -35,9 +35,9 @@ Um ein solches System zu realisieren, haben wir die wichtigsten Softwarekomponen
 
 Alle Modelle enthalten weiterführende Erklärungen in den jeweiligen `README.md`-Dateien.
 
----
 
-## 🔍 Wichtige Dateien
+
+Wichtige Dateien
 
 | Kategorie       | Datei                                                                                     |
 |----------------|--------------------------------------------------------------------------------------------|
