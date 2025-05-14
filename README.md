@@ -50,7 +50,15 @@ In unserem **[LUMINA-Wiki](https://github.com/Solimon12/ATdIT2_IBAIT23_G3_InFlig
 ## ❓ Fragen? ❓
 
 Bei Fragen melde dich gerne per Mail:  
-*[Leonie.Bretscher@studmail.hwg-lu.de ]*
+
+| **Name**           | **Jobbezeichnung**        | **E-Mail**                          |
+|--------------------|---------------------------|-------------------------------------|
+| Jonas Juston       | Informationsarchitekt     | jonasmaximilianwilhelm.juston@studmail.hwg-lu.de          |
+| Oliver Simon       | Softwarearchitekt         | OliverMichele.Simon@studmail.hwg-lu.de|
+| Vanessa Weber      | Applikationentwickler     | Vanessa.Weber1@studmail.hwg-lu.de            |
+| Leonie Bretscher   | UI & Doku Spezialistin    | leonie.bretscher@studmail.hwg-lu.de               |
+| Inas Mountassir    | Leiterin Prozessanalyse   | inas.mountassir@studmail.hwg-lu.de      |
+
 
 ---
 
