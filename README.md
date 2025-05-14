@@ -11,7 +11,7 @@ Gruppenmitglieder: *Leonie Bretscher, Vanessa Weber, Inas Mountassir, Oliver Sim
 
 ![TitlePicture](Images/PictureForTitle.png)
 
-## ✨ Projektbeschreibung
+## ✨ Projektbeschreibung ✨
 
 #### **LUMINA** ist eine visionäre Softwareplattform, die sich der Aufgabe widmet, zukünftige Weltraumerlebnisse für Tourist:innen einmalig und immersiv zu gestalten. 
 
