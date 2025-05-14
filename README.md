@@ -72,7 +72,7 @@ Wir haben bewusst den Fokus auf den **Client der Anwendung** gelegt. Serverlogik
 
 ## 📽 Präsentation
 
-Unsere Projektpräsentation findest du hier:  
+Unsere Projektpräsentation findet man hier:  
 📄 [Präsentation.pdf](UrlaubImAll.pdf)
 
 ---
