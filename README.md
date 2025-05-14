@@ -11,76 +11,46 @@ Gruppenmitglieder: *Leonie Bretscher, Vanessa Weber, Inas Mountassir, Oliver Sim
 
 ![TitlePicture](Images/PictureForTitle.png)
 
+---
+
+
 ## ✨ Projektbeschreibung ✨
 
 #### **LUMINA** ist eine visionäre Softwareplattform, die sich der Aufgabe widmet, zukünftige Weltraumerlebnisse für Tourist:innen einmalig und immersiv zu gestalten. 
 
 #### Wir garantieren maximale Sicherheit während Ihres Raumflugs – kombiniert mit interaktiven Unterhaltungsmöglichkeiten und dem einzigartigen Erlebnis eines echten Weltraumspaziergangs.
----
-
-## 📁Modellierung
-
-### Übersicht
-
-Um ein solches System zu realisieren, haben wir die wichtigsten Softwarekomponenten modelliert:
-
-- **Prozessmodellierung (BPMN):** Darstellung des Buchungs- & Erlebnisprozesses  
-  → [Documents/Prozesse/BPMN](Documents/Prozesse/BPMN)
-
-- **Datenmodellierung:** Datenstruktur für Nutzerprofile, Touren & Erlebnisinhalte  
-  → [Documents/Datamodel](Documents/Datamodel)
-
-- **UI-Design im Comic-Stil:** Excalidraw-Modelle und SVG-Export unserer Benutzeroberfläche  
-  → [Documents/UI](Documents/UI)
-
-Alle Modelle enthalten weiterführende Erklärungen in den jeweiligen `README.md`-Dateien.
-
-
-
-Wichtige Dateien
-
-| Kategorie       | Datei                                                                                     |
-|----------------|--------------------------------------------------------------------------------------------|
-| BPMN-Modell     | [Documents/Prozesse/BPMN/Buchung_Final.png](Documents/Prozesse/BPMN/Buchung_Final.png)   |
-| Datenmodell     | [Documents/Datamodel/lumina_db_model.png](Documents/Datamodel/lumina_db_model.png)       |
-| UI-Modellierung | [Documents/UI/PNGs/User/Buchung_01.png](Documents/UI/PNGs/User/Buchung_01.png)            |
 
 ---
 
-## 💻 Code & Systemstruktur
+## 🚀 Warum LUMINA eine Investition wert ist  
 
-Der Code befindet sich im Ordner:  
-📁 [Code/lumina_space_experience](Code/lumina_space_experience)
+Mit **LUMINA** heben wir das Kundenerlebnis im Weltraumtourismus auf ein neues Level:
 
-Dort findest du:
-- `src/main` → Hauptlogik der Client-Anwendung (z. B. Buchung, Visualisierung)
-- `src/test` → Testklassen
-- `README.md` → Technische Dokumentation zum Code
+- **🎯 Personalisierte Betreuung & Service**  
+  Höhere Kundenzufriedenheit durch individuelle Profile und maßgeschneiderte Angebote.  
 
-Wir haben bewusst den Fokus auf den **Client der Anwendung** gelegt. Serverlogik und Authentifizierung wurden für dieses Projekt simuliert (Mocking).
+- **🧑‍🚀 Optimierte Crew-Arbeit**  
+  Bessere Transparenz über Kundenwünsche und eine effizientere Betreuung an Bord.  
 
----
+- **💸 Neue Ertragsmöglichkeiten**  
+  Zusatzeinnahmen durch exklusive Upgrades und individuell buchbare Aktivitäten.  
 
-## 🧪 Scope des Projekts
-
-| Thema              | Im Scope                                                           | Außerhalb des Scopes                              |
-|--------------------|---------------------------------------------------------------------|---------------------------------------------------|
-| Buchungserlebnis   | UI, Animationen, Client-Logik, API-Calls (mocked)                  | Backend/Serverimplementierung, Authentifizierung  |
-| Erlebnisdarstellung| Comic-Design, Scroll-Animationen, interaktive Inhalte              | Physikalische Simulationen oder Echtzeitdaten     |
+**LUMINA** vereint Kundenerlebnis, Servicequalität und Effizienz – ein innovativer Schlüssel zu nachhaltigem Wachstum im Weltraumtourismus.
 
 ---
 
-## 📽 Präsentation
+## 📚 Technische Mission: Unser LUMINA-Wiki  
 
-Unsere Projektpräsentation findet man hier:  
-📄 [Präsentation.pdf](UrlaubImAll.pdf)
+Jede erfolgreiche Mission braucht ein starkes Kontrollzentrum.  
+In unserem **[LUMINA-Wiki](https://github.com/Solimon12/ATdIT2_IBAIT23_G3_InFlight/wiki)** findet man alle wichtigen technischen Unterlagen, die unser Projekt tragen – von Datenmodellen und Prozessdiagrammen bis hin zu UI-Skizzen und Entwicklungsrichtlinien.
 
 ---
+
 
 ## ❓ Fragen?
 
 Bei Fragen melde dich gerne per Mail:  
-*[Eure Kontaktadressen hier einfügen]*
+*[Leonie.Bretscher@studmail.hwg-lu.de ]*
 
 ---
 
