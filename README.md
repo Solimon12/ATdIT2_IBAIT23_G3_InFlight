@@ -42,8 +42,7 @@ Mit **LUMINA** heben wir das Kundenerlebnis im Weltraumtourismus auf ein neues L
 ## 📚 Technische Mission: Unser LUMINA-Wiki 📚
 
 Jede erfolgreiche Mission braucht ein starkes Kontrollzentrum.  
-In unserem **[LUMINA-Wiki](https://github.com/Solimon12/ATdIT2_IBAIT23_G3_InFlight/wiki)** findet man alle wichtigen technischen Unterlagen, die unser Projekt tragen – von Datenmodellen und Prozessdiagrammen bis hin zu UI-Skizzen und Entwicklungsrichtlinien.
-
+In unserem **[LUMINA-Wiki](https://github.com/Solimon12/ATdIT2_IBAIT23_G3_InFlight/wiki)** findet man alle wichtigen technischen Unterlagen, die unser Projekt tragen.
 ---
 
 
