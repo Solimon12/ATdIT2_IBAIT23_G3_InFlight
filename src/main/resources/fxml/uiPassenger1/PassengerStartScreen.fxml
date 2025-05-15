@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.effect.DropShadow?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<VBox alignment="CENTER" prefHeight="612.0" prefWidth="929.0" styleClass="bodybg" stylesheets="@../../css/PassengerBackgroundStyle.css" xmlns="http://javafx.com/javafx/23.0.1" xmlns:fx="http://javafx.com/fxml/1">
+    <padding>
+        <Insets bottom="20.0" left="20.0" right="20.0" top="20.0" />
+    </padding>
+   <Label alignment="CENTER" prefHeight="86.0" prefWidth="324.0" text="Welcome on board!" textFill="WHITE">
+      <font>
+         <Font name="System Bold" size="30.0" />
+      </font>
+   </Label>
+   <HBox alignment="CENTER" prefHeight="170.0" prefWidth="890.0" spacing="50.0">
+      <effect>
+         <DropShadow/>
+      </effect>
+      <Button fx:id="serviceButton" prefHeight="100.0" prefWidth="150.0" style="-fx-background-color: white;"
+              text="Service">
+         <font>
+            <Font size="20.0"/>
+         </font>
+      </Button>
+      <Button fx:id="vitalsButton" prefHeight="100.0" prefWidth="150.0" style="-fx-background-color: white;"
+              text="Vitals">
+         <font>
+            <Font size="20.0"/>
+         </font>
+      </Button>
+      <Button fx:id="flightDataButton" prefHeight="100.0" prefWidth="150.0" style="-fx-background-color: white;"
+              text="Flight Data">
+         <font>
+            <Font size="20.0"/>
+         </font>
+      </Button>
+      <Button fx:id="cameraButton" prefHeight="100.0" prefWidth="150.0" style="-fx-background-color: white;"
+              text="360° Cameras">
+         <font>
+            <Font size="20.0"/>
+         </font>
+      </Button>
+   </HBox>
+   <HBox alignment="CENTER" prefHeight="145.0" prefWidth="890.0" spacing="50.0">
+      <effect>
+         <DropShadow/>
+      </effect>
+      <Button fx:id="mediaButton" mnemonicParsing="false" prefHeight="100.0" prefWidth="150.0"
+              style="-fx-background-color: white;" text="Media">
+         <font>
+            <Font size="20.0"/>
+         </font>
+      </Button>
+      <Button fx:id="novaCreditsButton" mnemonicParsing="false" onAction="#switchToPassengerNovaCreditsMenuScreen"
+              prefHeight="100.0" prefWidth="150.0" style="-fx-background-color: white;" text="NovaCredits">
+         <font>
+            <Font size="20.0"/>
+         </font>
+      </Button>
+      <Button fx:id="spaceWalkButton" mnemonicParsing="false" onAction="#switchToPassengerSpaceWalkSelectionScreen"
+              prefHeight="100.0" prefWidth="150.0" style="-fx-background-color: white;" text="Space Walk">
+         <font>
+            <Font size="20.0"/>
+         </font>
+      </Button>
+   </HBox>
+</VBox>

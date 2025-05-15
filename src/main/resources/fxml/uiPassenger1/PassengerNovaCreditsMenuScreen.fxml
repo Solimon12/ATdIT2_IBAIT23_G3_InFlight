@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.effect.DropShadow?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<VBox alignment="CENTER" prefHeight="612.0" prefWidth="929.0" spacing="50.0" styleClass="bodybg" stylesheets="@../../css/PassengerBackgroundStyle.css" xmlns="http://javafx.com/javafx/23.0.1" xmlns:fx="http://javafx.com/fxml/1">
+    <padding>
+        <Insets bottom="20.0" left="20.0" right="20.0" top="20.0" />
+    </padding>
+   <HBox prefHeight="53.0" prefWidth="890.0">
+      <Button fx:id="novaCreditsMenuBackButton" mnemonicParsing="false" onAction="#backToPassengerStartScreen"
+              prefHeight="50.0" prefWidth="50.0" style="-fx-background-color: lightgray;" text="Back">
+         <effect>
+            <DropShadow/>
+         </effect>
+      </Button>
+   </HBox>
+   <Label alignment="CENTER" prefHeight="58.0" prefWidth="482.0" text="Current Holdings" textFill="WHITE">
+      <font>
+         <Font name="System Bold" size="30.0" />
+      </font>
+   </Label>
+   <Label fx:id="novaCreditsMenuLabel" alignment="CENTER" prefHeight="53.0" prefWidth="271.0" styleClass="bodybg" stylesheets="@../../css/PassengerBackgroundStyle.css" text="ARSCH" textFill="WHITE">
+      <font>
+         <Font size="20.0" />
+      </font>
+   </Label>
+   <Button fx:id="rechargeButton" mnemonicParsing="false" onAction="#switchToPassengerCryptoWalletLoginScreen" prefHeight="50.0" prefWidth="200.0" style="-fx-background-color: white;" text="Recharge">
+      <font>
+         <Font size="20.0" />
+      </font>
+      <effect>
+         <DropShadow />
+      </effect>
+   </Button>
+   <Label prefHeight="75.0" />
+</VBox>

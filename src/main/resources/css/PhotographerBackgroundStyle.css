@@ -1,0 +1,4 @@
+.bodybg {
+    -fx-background-image: url("../backgroundPictures/PhotographerBackground.jpeg");
+    -fx-background-size: cover;
+}

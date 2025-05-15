@@ -1,0 +1,4 @@
+.bodybg {
+    -fx-background-image: url("../backgroundPictures/FlightAttendantBackground.jpeg");
+    -fx-background-size: cover;
+}

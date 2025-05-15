@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<VBox alignment="CENTER" prefHeight="612.0" prefWidth="929.0" spacing="100.0" styleClass="bodybg" stylesheets="@../../css/PassengerBackgroundStyle.css" xmlns="http://javafx.com/javafx/23.0.1" xmlns:fx="http://javafx.com/fxml/1">
+    <padding>
+        <Insets bottom="20.0" left="20.0" right="20.0" top="20.0" />
+    </padding>
+   <Label fx:id="thanksLabel" alignment="CENTER" prefHeight="383.0" prefWidth="724.0" text="Thank you for completing the survey.&#10;&#10;Welcome back to Earth.&#10;We hope you’re carrying wonderful memories &#10;from your extraordinary journey through the stars.&#10;&#10;We truly appreciate your choice to travel&#10;with us on this exclusive adventure." textAlignment="CENTER" textFill="WHITE">
+      <font>
+         <Font name="System Bold" size="30.0" />
+      </font>
+   </Label>
+</VBox>

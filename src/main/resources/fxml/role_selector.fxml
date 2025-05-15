@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.effect.DropShadow?>
+
+<VBox alignment="CENTER"
+      spacing="15.0"
+      prefHeight="600.0" prefWidth="900.0"
+      styleClass="bodybg"
+      stylesheets="@/css/AirTrafficBackgroundStyle.css"
+      xmlns="http://javafx.com/javafx/23.0.1"
+      xmlns:fx="http://javafx.com/fxml/1"
+      fx:controller="com.inFlight.client.controller.RoleSelectorController">
+
+    <padding>
+        <Insets top="40" bottom="40" left="20" right="20"/>
+    </padding>
+
+    <Label text="Select Your Role"
+           style="-fx-font-size: 26px; -fx-text-fill: white;" />
+
+    <Button text="Passenger" prefWidth="200" prefHeight="50"
+            onAction="#onPassenger">
+        <effect><DropShadow/></effect>
+    </Button>
+
+    <Button text="Pilot" prefWidth="200" prefHeight="50"
+            onAction="#onPilot" style="-fx-background-color: white;">
+        <effect><DropShadow/></effect>
+    </Button>
+
+    <Button text="Attendant" prefWidth="200" prefHeight="50"
+            onAction="#onAttendant" style="-fx-background-color: white;">
+        <effect><DropShadow/></effect>
+    </Button>
+
+    <Button text="Photographer" prefWidth="200" prefHeight="50"
+            onAction="#onPhotographer" style="-fx-background-color: white;">
+        <effect><DropShadow/></effect>
+    </Button>
+
+    <Button text="Air Traffic Control" prefWidth="200" prefHeight="50"
+            onAction="#onATC" style="-fx-background-color: white;">
+        <effect><DropShadow/></effect>
+    </Button>
+
+    <Button fx:id="ServerButton" text="Server" prefWidth="200" prefHeight="50"
+            onAction="#onServer" style="-fx-background-color: white;">
+        <effect><DropShadow/></effect>
+    </Button>
+
+</VBox>

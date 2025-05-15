@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.effect.DropShadow?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<VBox alignment="CENTER" prefHeight="612.0" prefWidth="929.0" styleClass="bodybg" stylesheets="@../../css/PilotBackgroundStyle.css" xmlns="http://javafx.com/javafx/23.0.1" xmlns:fx="http://javafx.com/fxml/1">
+    <padding>
+        <Insets bottom="20.0" left="20.0" right="20.0" top="20.0" />
+    </padding>
+   <Label prefHeight="50.0" />
+   <HBox alignment="CENTER" prefHeight="200.0" prefWidth="890.0" spacing="50.0">
+      <children>
+          <Button fx:id="aircraftDataButton" prefHeight="150.0" prefWidth="200.0" style="-fx-background-color: white;" text="Aircraft Data" textAlignment="CENTER">
+            <font>
+               <Font size="20.0" />
+            </font>
+            <effect>
+               <DropShadow />
+            </effect></Button>
+         <Button fx:id="routeDataButton" prefHeight="150.0" prefWidth="200.0" style="-fx-background-color: white;" text="Route Data" textAlignment="CENTER">
+            <font>
+               <Font size="20.0" />
+            </font>
+            <effect>
+               <DropShadow />
+            </effect></Button>
+         <Button fx:id="reviewBookingsButton" alignment="CENTER" onAction="#switchToPilotReviewBookingsScreen" prefHeight="150.0" prefWidth="200.0" style="-fx-background-color: white;" text="Review Bookings" textAlignment="CENTER">
+            <font>
+               <Font size="20.0" />
+            </font>
+            <effect>
+               <DropShadow />
+            </effect></Button>
+      </children>
+      <effect>
+         <DropShadow />
+      </effect>
+   </HBox>
+   <HBox alignment="CENTER" prefHeight="200.0" prefWidth="890.0" spacing="50.0">
+      <children>
+         <Button fx:id="messageAirTrafficControllerButton" alignment="CENTER" mnemonicParsing="false" onAction="#switchToPilotMessageAirTrafficScreen" prefHeight="150.0" prefWidth="200.0" style="-fx-background-color: white;" text="Message Air &#10;Traffic Controller" textAlignment="CENTER">
+            <font>
+               <Font size="20.0" />
+            </font>
+            <effect>
+               <DropShadow />
+            </effect></Button>
+         <Button fx:id="messageFlightAttendantsButton" alignment="CENTER" mnemonicParsing="false" onAction="#switchToPilotMessageFlightAttendantScreen" prefHeight="150.0" prefWidth="200.0" style="-fx-background-color: white;" text="Message &#10;Flight Attendants" textAlignment="CENTER">
+            <font>
+               <Font size="20.0" />
+            </font>
+            <effect>
+               <DropShadow />
+            </effect></Button>
+         <Button fx:id="passengerMenuButton" alignment="CENTER" mnemonicParsing="false" onAction="#switchToPilotPassengerMenuScreen" prefHeight="150.0" prefWidth="200.0" style="-fx-background-color: white;" text="Passenger &#10;Menu" textAlignment="CENTER">
+            <font>
+               <Font size="20.0" />
+            </font>
+            <effect>
+               <DropShadow />
+            </effect></Button>
+      </children>
+      <effect>
+         <DropShadow />
+      </effect>
+   </HBox>
+</VBox>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.effect.DropShadow?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.Font?>
+
+<VBox alignment="CENTER" prefHeight="612.0" prefWidth="929.0" spacing="20.0"
+      styleClass="bodybg"
+      stylesheets="@../../css/AirTrafficBackgroundStyle.css"
+      xmlns="http://javafx.com/javafx/23.0.1"
+      xmlns:fx="http://javafx.com/fxml/1">
+
+   <padding>
+      <Insets top="20.0" right="20.0" bottom="20.0" left="20.0"/>
+   </padding>
+
+   <!-- Top Bar -->
+   <HBox prefHeight="58.0" prefWidth="890.0" spacing="322.0">
+      <Button fx:id="messageAttendantBackButton"
+              onAction="#backToPilotStartScreen"
+              prefHeight="50.0" prefWidth="50.0"
+              style="-fx-background-color: lightgray;" text="Back">
+         <effect>
+            <DropShadow/>
+         </effect>
+      </Button>
+   </HBox>
+
+   <!-- Chat Title -->
+   <Label text="Chat with Attendant" style="-fx-font-size: 22px; -fx-text-fill: white;" />
+
+   <!-- Chat Message View -->
+   <VBox fx:id="chatBoxATCContainer" prefWidth="800.0" prefHeight="400.0">
+      <ScrollPane fitToWidth="true" fitToHeight="true" prefHeight="350.0">
+         <VBox fx:id="chatBoxAttendant"/>
+      </ScrollPane>
+
+      <HBox alignment="CENTER">
+         <TextField fx:id="messageFieldAttendant" promptText="Type a message..." HBox.hgrow="ALWAYS" />
+         <Button text="Send" onAction="#onSendAttendant"/>
+      </HBox>
+   </VBox>
+</VBox>

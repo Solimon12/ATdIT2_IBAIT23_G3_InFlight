@@ -1,0 +1,12 @@
+com.inFlight
+com.inFlight.client.controller
+com.inFlight.client.socket
+com.inFlight.server
+com.inFlight.server.dao
+com.inFlight.server.db
+com.inFlight.server.service
+com.inFlight.server.socket
+com.inFlight.shared.model
+com.inFlight.shared.protocol
+com.inFlight.shared.state
+com.inFlight.shared.util

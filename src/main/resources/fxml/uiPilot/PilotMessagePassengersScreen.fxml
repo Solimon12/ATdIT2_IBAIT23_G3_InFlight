@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.effect.DropShadow?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<VBox alignment="CENTER" prefHeight="612.0" prefWidth="929.0" spacing="20.0" styleClass="bodybg" stylesheets="@../../css/PilotBackgroundStyle.css" xmlns="http://javafx.com/javafx/23.0.1" xmlns:fx="http://javafx.com/fxml/1">
+    <padding>
+        <Insets bottom="20.0" left="20.0" right="20.0" top="20.0" />
+    </padding>
+   <children>
+      <HBox prefHeight="58.0" prefWidth="890.0" spacing="322.0">
+         <children>
+            <Button fx:id="pilotMessagePassengersBackButton" mnemonicParsing="false" onAction="#switchToPilotPassengerMenuScreen" prefHeight="50.0" prefWidth="50.0" style="-fx-background-color: lightgray;" text="Back">
+               <effect>
+                  <DropShadow />
+               </effect>
+            </Button>
+         </children>
+      </HBox>
+      <Label prefHeight="125.0" />
+      <HBox alignment="CENTER" prefHeight="100.0" prefWidth="890.0" spacing="50.0">
+         <children>
+            <TextArea fx:id="broadcastField" prefHeight="200.0" prefWidth="650.0" wrapText="true">
+               <font>
+                  <Font size="15.0" />
+               </font></TextArea>
+            <Button fx:id="sendPassengersButton" alignment="CENTER" contentDisplay="CENTER" mnemonicParsing="false" onAction="#onSendBroadcast" prefHeight="30.0" prefWidth="100.0" style="-fx-background-color: white;" text="Send">
+               <font>
+                  <Font size="15.0" />
+               </font>
+            </Button>
+         </children>
+      </HBox>
+      <Label prefHeight="150.0" />
+   </children>
+</VBox>
