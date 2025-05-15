@@ -54,7 +54,7 @@ Bei Fragen melde dich gerne per Mail:
 |--------------------|---------------------------|-------------------------------------|
 | Jonas Juston       | Informationsarchitekt     | jonasmaximilianwilhelm.juston@studmail.hwg-lu.de          |
 | Oliver Simon       | Softwarearchitekt         | OliverMichele.Simon@studmail.hwg-lu.de|
-| Vanessa Weber      | Applikationsentwickler     | Vanessa.Weber1@studmail.hwg-lu.de            |
+| Vanessa Weber      | Applikationsentwicklerin  | Vanessa.Weber1@studmail.hwg-lu.de            |
 | Leonie Bretscher   | UI & Doku Spezialistin    | leonie.bretscher@studmail.hwg-lu.de               |
 | Inas Mountassir    | Leiterin Prozessanalyse   | inas.mountassir@studmail.hwg-lu.de      |
 
