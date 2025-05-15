@@ -9,7 +9,7 @@ Gruppenmitglieder: *Leonie Bretscher, Vanessa Weber, Inas Mountassir, Oliver Sim
 
 ---
 
-![TitlePicture](Images/PictureForTitle.png)
+![TitlePicture](Documentation/Images/PictureForTitle.png)
 
 ---
 
