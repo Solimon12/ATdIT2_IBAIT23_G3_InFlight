@@ -50,9 +50,9 @@ public class Main extends Application {
 
             // Clear bookings and messages
             stmt.executeUpdate("DELETE FROM bookings;");
-            stmt.executeUpdate("INSERT INTO bookings (passenger_id, slot_id, tier, status) VALUES (1, 3, 1, 'pending');");
-            stmt.executeUpdate("INSERT INTO bookings (passenger_id, slot_id, tier, status) VALUES (1, 6, 3,'approved');");
-            stmt.executeUpdate("INSERT INTO bookings (passenger_id, slot_id, tier, status) VALUES (2, 8, 2,'denied');");
+           // stmt.executeUpdate("INSERT INTO bookings (passenger_id, slot_id, tier, status) VALUES (1, 3, 1, 'pending');");
+           // stmt.executeUpdate("INSERT INTO bookings (passenger_id, slot_id, tier, status) VALUES (1, 6, 3,'approved');");
+           // stmt.executeUpdate("INSERT INTO bookings (passenger_id, slot_id, tier, status) VALUES (2, 8, 2,'denied');");
             stmt.executeUpdate("DELETE FROM chat_message;");
 
             // Reset inventory
