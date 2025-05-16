@@ -138,62 +138,62 @@ public class AttendantController {
         switch (id) {
             case "passenger1Button" -> {
                 selectedPassengerNameLabel.setText(loadedPassengers.get(0).getUsername());
-                selectedPassengerServiceCallsButton.setText(loadedPassengers.get(0).getUsername() + " Service Calls");
-                selectedPassengerBookingsButton.setText(loadedPassengers.get(0).getUsername() + " Bookings");
+                selectedPassengerServiceCallsButton.setText(loadedPassengers.get(0).getUsername() + "\nService Calls");
+                selectedPassengerBookingsButton.setText(loadedPassengers.get(0).getUsername() + "\nBookings");
                 currentPassenger = loadedPassengers.get(0);
                 if (currentPassenger.isCheckedOut()) {
-                    selectedPassengerCheckOutButton.setText(loadedPassengers.get(0).getUsername() + " Check In");
+                    selectedPassengerCheckOutButton.setText(loadedPassengers.get(0).getUsername() + " \nCheck In");
                 } else {
-                    selectedPassengerCheckOutButton.setText(loadedPassengers.get(0).getUsername() + " Check Out");
+                    selectedPassengerCheckOutButton.setText(loadedPassengers.get(0).getUsername() + "\nCheck Out");
                 }
                 lastButtonId = id;
             }
 
             case "passenger2Button" -> {
                 selectedPassengerNameLabel.setText(loadedPassengers.get(1).getUsername());
-                selectedPassengerServiceCallsButton.setText(loadedPassengers.get(1).getUsername() + " Service Calls");
-                selectedPassengerBookingsButton.setText(loadedPassengers.get(1).getUsername() + " Bookings");
+                selectedPassengerServiceCallsButton.setText(loadedPassengers.get(1).getUsername() + "\nService Calls");
+                selectedPassengerBookingsButton.setText(loadedPassengers.get(1).getUsername() + "\nBookings");
                 currentPassenger = loadedPassengers.get(1);
                 if (currentPassenger.isCheckedOut()) {
-                    selectedPassengerCheckOutButton.setText(loadedPassengers.get(1).getUsername() + " Check In");
+                    selectedPassengerCheckOutButton.setText(loadedPassengers.get(1).getUsername() + "\nCheck In");
                 } else {
-                    selectedPassengerCheckOutButton.setText(loadedPassengers.get(1).getUsername() + " Check Out");
+                    selectedPassengerCheckOutButton.setText(loadedPassengers.get(1).getUsername() + "\nCheck Out");
                 }
                 lastButtonId = id;
             }
             case "passenger3Button" -> {
                 selectedPassengerNameLabel.setText(loadedPassengers.get(2).getUsername());
-                selectedPassengerServiceCallsButton.setText(loadedPassengers.get(2).getUsername() + " Service Calls");
-                selectedPassengerBookingsButton.setText(loadedPassengers.get(2).getUsername() + " Bookings");
+                selectedPassengerServiceCallsButton.setText(loadedPassengers.get(2).getUsername() + "\nService Calls");
+                selectedPassengerBookingsButton.setText(loadedPassengers.get(2).getUsername() + "\nBookings");
                 currentPassenger = loadedPassengers.get(2);
                 if (currentPassenger.isCheckedOut()) {
-                    selectedPassengerCheckOutButton.setText(loadedPassengers.get(2).getUsername() + " Check In");
+                    selectedPassengerCheckOutButton.setText(loadedPassengers.get(2).getUsername() + "\nCheck In");
                 } else {
-                    selectedPassengerCheckOutButton.setText(loadedPassengers.get(2).getUsername() + " Check Out");
+                    selectedPassengerCheckOutButton.setText(loadedPassengers.get(2).getUsername() + "\nCheck Out");
                 }
                 lastButtonId = id;
             }
             case "passenger4Button" -> {
                 selectedPassengerNameLabel.setText(loadedPassengers.get(3).getUsername());
-                selectedPassengerServiceCallsButton.setText(loadedPassengers.get(3).getUsername() + " Service Calls");
-                selectedPassengerBookingsButton.setText(loadedPassengers.get(3).getUsername() + " Bookings");
+                selectedPassengerServiceCallsButton.setText(loadedPassengers.get(3).getUsername() + "\nService Calls");
+                selectedPassengerBookingsButton.setText(loadedPassengers.get(3).getUsername() + "\nBookings");
                 currentPassenger = loadedPassengers.get(3);
                 if (currentPassenger.isCheckedOut()) {
-                    selectedPassengerCheckOutButton.setText(loadedPassengers.get(3).getUsername() + " Check In");
+                    selectedPassengerCheckOutButton.setText(loadedPassengers.get(3).getUsername() + "\nCheck In");
                 } else {
-                    selectedPassengerCheckOutButton.setText(loadedPassengers.get(3).getUsername() + " Check Out");
+                    selectedPassengerCheckOutButton.setText(loadedPassengers.get(3).getUsername() + "\nCheck Out");
                 }
                 lastButtonId = id;
             }
             case "passenger5Button" -> {
                 selectedPassengerNameLabel.setText(loadedPassengers.get(4).getUsername());
-                selectedPassengerServiceCallsButton.setText(loadedPassengers.get(4).getUsername() + " Service Calls");
-                selectedPassengerBookingsButton.setText(loadedPassengers.get(4).getUsername() + " Bookings");
+                selectedPassengerServiceCallsButton.setText(loadedPassengers.get(4).getUsername() + "\nService Calls");
+                selectedPassengerBookingsButton.setText(loadedPassengers.get(4).getUsername() + "\nBookings");
                 currentPassenger = loadedPassengers.get(4);
                 if (currentPassenger.isCheckedOut()) {
-                    selectedPassengerCheckOutButton.setText(loadedPassengers.get(4).getUsername() + " Check In");
+                    selectedPassengerCheckOutButton.setText(loadedPassengers.get(4).getUsername() + "\nCheck In");
                 } else {
-                    selectedPassengerCheckOutButton.setText(loadedPassengers.get(4).getUsername() + " Check Out");
+                    selectedPassengerCheckOutButton.setText(loadedPassengers.get(4).getUsername() + "\nCheck Out");
                 }
                 lastButtonId = id;
             }

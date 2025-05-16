@@ -546,7 +546,7 @@ public class PassengerController {
                 currentPassenger.setNovaCredits(updatedCredits);
                 loadScene("fxml/uiPassenger1/PassengerBookingThanksScreen.fxml", e);
             } else {
-                loadScene("fxml/uiPassenger1/Passenger1TimeSlotAlreadyTakenScreen.fxml", e);
+                loadScene("fxml/uiPassenger1/PassengerTimeSlotAlreadyTakenScreen.fxml", e);
             }
         }
     }
