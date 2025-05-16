@@ -5,7 +5,7 @@ HWG Ludwigshafen – IBAIT ATdIT 2, Projektgruppe 3
 ***Entwicklung eines innovativen Softwaresystems für atemberaubende Erlebnisse im Weltraum.***
 
 Dozierende: *Andreas Heck und Patrick Gutgesell*  
-Gruppenmitglieder: *Leonie Bretscher, Vanessa Weber, Inas Mountassir, Oliver Simons & Jonas Juston*
+Gruppenmitglieder: *Leonie Bretscher, Vanessa Weber, Inas Mountassir, Oliver Simon & Jonas Juston*
 
 ---
 
