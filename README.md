@@ -45,6 +45,14 @@ Mit **LUMINA** heben wir das Kundenerlebnis im Weltraumtourismus auf ein neues L
 #### In unserem **[LUMINA-Wiki](https://github.com/Solimon12/ATdIT2_IBAIT23_G3_InFlight/wiki)** findet man alle wichtigen technischen Unterlagen, die unser Projekt tragen.
 ---
 
+## 📄 Disclaimer
+
+Die Eintragung der Zeitslots durch die Bodencrew erfolgt **im Voraus** und wird in **einstündigen Intervallen** organisiert. Überschneidungen werden dabei **ausgeschlossen.** Die Passagiere haben die Möglichkeit, ihren bevorzugten Slot während des Flugs zu buchen.
+
+Der Weltraumausflug beinhaltet einen einmaligen **Flug um die Erde.**
+
+Alle relevanten **Gesundheitsdaten** sowie **individuelle Sonderwünsche** werden im Vorfeld abgefragt und dokumentiert.  
+Die im Rahmen der am Ende der Reise durchgeführten Umfrage gewonnenen Informationen werden im Anschluss ausschließlich an die Abteilung für **Customer Satisfaction & Improvement** übermittelt. Dort dienen sie der Auswertung sowie der kontinuierlichen Weiterentwicklung des Programms.
 
 ## ❓ Fragen? ❓
 
