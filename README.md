@@ -54,6 +54,8 @@ Der Weltraumausflug beinhaltet einen einmaligen **Flug um die Erde.**
 Alle relevanten **Gesundheitsdaten** sowie **individuelle Sonderwünsche** werden im Vorfeld abgefragt und dokumentiert.  
 Die im Rahmen der am Ende der Reise durchgeführten Umfrage gewonnenen Informationen werden im Anschluss ausschließlich an die Abteilung für **Customer Satisfaction & Improvement** übermittelt. Dort dienen sie der Auswertung sowie der kontinuierlichen Weiterentwicklung des Programms.
 
+---
+
 ## ❓ Fragen? ❓
 
 Bei Fragen melde dich gerne per Mail:  
