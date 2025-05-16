@@ -58,7 +58,7 @@ Die im Rahmen der am Ende der Reise durchgeführten Umfrage gewonnenen Informati
 
 ## ❓ Fragen? ❓
 
-Bei Fragen melde dich gerne per Mail:  
+Bei Fragen melden Sie sich gerne per Mail:  
 
 | **Name**           | **Jobbezeichnung**        | **E-Mail**                          |
 |--------------------|---------------------------|-------------------------------------|
