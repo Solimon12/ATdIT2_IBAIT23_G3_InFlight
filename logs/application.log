@@ -23794,3 +23794,4 @@ java.lang.RuntimeException: Database error
 2025-05-16 20:12:22 INFO  com.inFlight.server.service.PassengerService - Passenger not found for top-up.
 2025-05-16 20:12:22 INFO  com.inFlight.server.service.PassengerService - Not enough novaCredits or passenger not found.
 2025-05-16 20:12:22 INFO  com.inFlight.server.socket.ClientHandler - Client disconnected: null
+2025-05-16 21:10:49 INFO  com.inFlight.Main - Database reset to demo state.
